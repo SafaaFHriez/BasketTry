@@ -8,5 +8,6 @@ public class Demo {
       b.add(2.4);
       b.add(5.6);
       b.deleteLastItem();
+      System.out.println(b);
     }
 }
