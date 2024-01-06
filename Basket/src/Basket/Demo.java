@@ -9,5 +9,6 @@ public class Demo {
       b.add(5.6);
       b.add(7.0);
       System.out.println(b);
+        System.out.println("safaa added");
     }
 }
