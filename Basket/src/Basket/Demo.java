@@ -8,5 +8,6 @@ public class Demo {
       b.add(2.4);
       b.add(5.6);
       b.add(7.0);
+      System.out.println(b);
     }
 }
