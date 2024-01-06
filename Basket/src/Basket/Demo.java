@@ -10,6 +10,6 @@ public class Demo {
       b.add(3.0);
       b.add(7.0);
       System.out.println(b);
-      System.out.println("safaa added");
+      System.out.println("safaa updated");
     }
 }
